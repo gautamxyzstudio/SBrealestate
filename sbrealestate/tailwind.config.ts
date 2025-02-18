@@ -16,6 +16,7 @@ export default {
         primary: "var(--primary)",
        Black: "var(--black)",
        Green: "var(--green)",
+       borderStroke: "var(--borderStroke)"
       },
     },
   },
