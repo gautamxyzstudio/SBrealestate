@@ -28,7 +28,7 @@ export const Icons ={
 
 import Logo from './logo.webp';
 import AboutSection from './AboutSection.jpg'
-import RoyalLeo from './royalLeoPage.webp';
+import RoyalLeo from './royalLeopage.webp';
 
 export const Images = {
     Logo,
