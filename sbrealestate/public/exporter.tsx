@@ -1,10 +1,10 @@
-import Call from './call.svg';
+import Call from './Call.svg';
 import CallBg from './call_bg.svg';
 import Email from './mail.svg';
 import EmailBg from './mail_bg.svg';
 import FaceBook from './facebook.svg';
 import Instagram from './instagram.svg';
-import Twitter from './twitter.svg';
+import Twitter from './tiwtter.svg';
 import Youtube from './youtube.svg';
 import Linkedin from './linkedin.svg';
 import Language from './language.svg';
@@ -27,8 +27,10 @@ export const Icons ={
 
 import Logo from './logo.webp';
 import RoyalLeo from './royalLeopage.webp';
+import AboutSection from './AboutSection.jpg'
 
 export const Images = {
     Logo,
     RoyalLeo,
+    AboutSection,
 }

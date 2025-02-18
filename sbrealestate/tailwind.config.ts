@@ -9,13 +9,32 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        footer_bg: 'url(/footerBg.webp)',
+        footer_bg: "url(/footerBg.webp)",
       },
+      boxShadow: {
+        aboutBox: "0px 0px 8px 0px rgba(40, 149, 202, 0.25)",
+      },
+
       colors: {
         background: "var(--background)",
         primary: "var(--primary)",
-       Black: "var(--black)",
-       Green: "var(--green)",
+        Black: "var(--black)",
+        Green: "var(--green)",
+        primaryLight: "var(--primaryLight)",
+      },
+      fontSize: {
+        text_48: [
+          "3rem",
+          {
+            lineHeight: "3.25 rem",
+          },
+        ],
+        text_20 : [
+          "1.25rem",
+          {
+            lineHeight: "1.5rem",
+          },
+        ]
       },
     },
   },

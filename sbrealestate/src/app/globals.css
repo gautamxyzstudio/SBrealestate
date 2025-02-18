@@ -19,6 +19,8 @@
   --primary: #37A0D2;
   --black: #181818;
   --green: #1AAF06;
+  --primaryLight: #F2FBFF;
+
 }
 
 @media (prefers-color-scheme: dark) {
@@ -27,6 +29,7 @@
     --primary: #37A0D2;
     --black: #181818;
     --green: #1AAF06;
+    --primaryLight: #F2FBFF;
   }
 }
 
