@@ -21,6 +21,7 @@ export default {
         Black: "var(--black)",
         Green: "var(--green)",
         primaryLight: "var(--primaryLight)",
+         borderStroke: "var(--borderStroke)",
       },
       fontSize: {
         text_48: [

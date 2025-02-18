@@ -20,7 +20,7 @@
   --black: #181818;
   --green: #1AAF06;
   --primaryLight: #F2FBFF;
-
+  --borderStroke: #90C0D7;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -30,6 +30,7 @@
     --black: #181818;
     --green: #1AAF06;
     --primaryLight: #F2FBFF;
+    --borderStroke: #90C0D7;
   }
 }
 
