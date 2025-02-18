@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        footer_bg: 'url(/footerBg.webp)',
+      },
       colors: {
         background: "var(--background)",
         primary: "var(--primary)",
